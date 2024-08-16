@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pratik Charwad a.k.a @pratik-knowdl
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning how to solve problems
-- 💞️ I’m not looking to collaborate on any such thing yet
 - 📫 You know how to reach me
 - ⚡ Fun fact: ... Fact is not fun.
 
